@@ -99,53 +99,6 @@ I thrive on challenges that push me to learn something new, and I'm committed to
 **Git & GitHub** `████████░` **85%** - Version control, collaboration, CI/CD  
 
 </div>
-
----
-
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🌟 [Project Name 1](LINK)
-**Full-Stack Web Application**
-
-![Project Demo](https://via.placeholder.com/800x400/4C51BF/ffffff?text=Your+Project+Screenshot)
-
-`Python` `Django` `JavaScript` `MySQL`
-
-A comprehensive web application that demonstrates full-stack capabilities. Features include user authentication, database management, and responsive design. Built with security best practices in mind.
-
-⭐ **[Live Demo](LINK)** | 💻 **[Source Code](LINK)**
-
----
-
-### 🔐 [Project Name 2](LINK)
-**Secure Application with Cybersecurity Focus**
-
-![Project Demo](https://via.placeholder.com/800x400/10B981/ffffff?text=Your+Project+Screenshot)
-
-`PHP` `MySQL` `HTML/CSS` `Security Protocols`
-
-Developed with a security-first approach, implementing encryption, secure authentication, and protection against common vulnerabilities. Showcases understanding of secure development practices.
-
-⭐ **[Live Demo](LINK)** | 💻 **[Source Code](LINK)**
-
----
-
-### 🤖 [Project Name 3](LINK)
-**Exploring Emerging Technologies**
-
-![Project Demo](https://via.placeholder.com/800x400/F59E0B/ffffff?text=Your+Project+Screenshot)
-
-`JavaScript` `React` `Node.js` `API Integration`
-
-An innovative project exploring modern web technologies and AI integration. Demonstrates ability to quickly learn and implement new technologies.
-
-⭐ **[Live Demo](LINK)** | 💻 **[Source Code](LINK)**
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
